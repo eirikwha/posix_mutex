@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/posix_mutex.dir/main.c.o  -o posix_mutex 

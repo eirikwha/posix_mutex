@@ -1,0 +1,3 @@
+/home/eirik/devel/indmek/assignment2/posix_mutex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eirik/devel/indmek/assignment2/posix_mutex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eirik/devel/indmek/assignment2/posix_mutex/cmake-build-debug/CMakeFiles/posix_mutex.dir
